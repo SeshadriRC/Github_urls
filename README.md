@@ -8,3 +8,6 @@ https://github.com/iam-veeramalla/ansible-zero-to-hero
 
 https://github.com/iam-veeramalla/helm-zero-to-hero/
 
+**Kubernetes**
+
+https://github.com/iam-veeramalla/kubernetes-troubleshooting-zero-to-hero/
